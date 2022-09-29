@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;  
+
+}
+
+body{
+    background-image: url(fondo.png);
+}
+.form_-register{
+    width: 600px;
+    background: #5cce9f;
+    padding: 30px;
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 40px ;
+    color: rgb(27, 231, 214);
+    font-family: 'Times New Roma';
+    box-shadow: 7px 13px 37px #000;
+    
+}
+.form_-register h1{
+    font-size: 50px;
+    margin-bottom: 10px;
+    color:rgb(251, 255, 1);
+}
+
+.form_-register h3{
+    color:rgb(24, 67, 128);
+    margin-bottom: 16px;
+    font-size: 25px;
+}
+
+.controls{
+    width: 50%;
+    background-color:#c6d4e2;
+    border-radius: 4px ;
+    margin-bottom: 4px;
+    font-family: 'Times New Roma';
+    font-size: 20px;
+    margin-bottom: 25px;
+}
+
+.boton{
+    width: 20%;
+    padding: 6px;
+    border: 3%;
+    font-size: 17px;
+    
+    
+}
+
+
